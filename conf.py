@@ -6,7 +6,7 @@ import sphinx_rtd_theme
 project = 'CIMM'
 copyright = '2020, Kazan Chemoinformatics and Molecular Modeling Lab'
 author = 'Ramil Nugmanov'
-release = '1'
+release = '2020.01.17'
 
 extensions = ['recommonmark', 'sphinx_rtd_theme']
 
@@ -21,8 +21,8 @@ source_suffix = {
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_logo = 'logo.jpg'
-html_favicon = 'favicon.ico'
+html_logo = 'imgs/logo.jpg'
+html_favicon = 'imgs/favicon.ico'
 html_show_copyright = True
 html_show_sphinx = False
 html_show_sourcelink = False
