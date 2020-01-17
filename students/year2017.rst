@@ -1,0 +1,20 @@
+2017 Graduated
+==============
+
+**Gabdullina Albina**
+
+**Izhboldina Aysylu**
+
+.. image:: imgs/khayrullina.jpg
+    :width: 200
+
+**Khayrullina Adelya**
+
+.. image:: imgs/ravil.jpg
+    :width: 200
+
+:ref:`ravil`
+
+**Tverdov Ilya**
+
+**Vasilyev Ilya**

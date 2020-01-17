@@ -1,0 +1,24 @@
+2014 Graduated
+==============
+
+**Bodrov Andrei**
+
+**Chubukaeva Dinara**
+
+Higher education (2006-2011): Kazan Federal University, Faculty of Chemistry.
+
+.. image:: imgs/gimadiev.jpg
+    :width: 200
+
+**Gimadiev Timur**
+
+Higher education (2004-2009): Kazan Federal University, Faculty of Chemistry.
+
+.. image:: imgs/nugmanov.jpg
+    :width: 200
+
+:ref:`stsouko`
+
+Higher education (2006-2011): Kazan Federal University, Faculty of Chemistry.
+
+**Petrovsky Anton**

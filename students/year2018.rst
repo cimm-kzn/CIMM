@@ -1,0 +1,19 @@
+2018 Graduated
+==============
+
+**Bekmuratova Feruza**
+
+.. image:: imgs/fatykhova.jpg
+    :width: 200
+
+:ref:`adelia`
+
+**Gimatev Rifat**
+
+**Khayrullina Zulfia**
+
+**Kutlushina Alina**
+
+**Moiseeva Evgenia**
+
+**Sattarov Boris**
