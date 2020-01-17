@@ -1,3 +1,5 @@
+.. _adelia:
+
 ****************
 Fatykhova Adelia
 ****************
@@ -20,4 +22,3 @@ Second year PhD student
 
 * Fatykhova A. Integrated cartridge for database of chemical reactions management — CGR-db /  A. Fatykhova, R. Nugmanov, T. Madzhidov, A. Varnek // 3rd International school-conference for students and young scientists «Materials and technologies of XXI«: October 29 - 31 октября, 2018. - Kazan Federal University, 2018.
 
-.. _adelia:
