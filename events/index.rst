@@ -1,12 +1,8 @@
 Events
 ======
 
-.. image:: imgs/antipin.jpg
-    :width: 1000
-
-Teaser
+Coming Events
 
 
 .. toctree::
     :hidden:
-    :maxdepth: 2

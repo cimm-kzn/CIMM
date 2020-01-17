@@ -9,4 +9,3 @@ PhD Students
 
 .. toctree::
     :hidden:
-    :maxdepth: 1

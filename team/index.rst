@@ -62,6 +62,5 @@ Associate professor of Department of Organic Chemistry of Alexander Butlerov Ins
 
 .. toctree::
     :hidden:
-    :maxdepth: 1
 
     nugmanov
