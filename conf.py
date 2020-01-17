@@ -26,6 +26,7 @@ html_favicon = 'imgs/favicon.ico'
 html_show_copyright = True
 html_show_sphinx = False
 html_show_sourcelink = False
+html_scaled_image_link = False
 
 html_css_files = [
     'style.css',
