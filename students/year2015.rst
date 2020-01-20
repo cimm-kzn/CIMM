@@ -6,8 +6,16 @@
 
 **Glavatskikh Marta**
 
+Predictive models for halogen bond basicity of binding sites of polyfunctional molecules
+
 **Khafizov Nail**
+
+Quantum-chemical calculation of intra- and intermolecular exchange interactions in derivatives of N-N`-dioxo-1,3,5,7-tetramethyl-2,6-diazaadamantane
 
 **Lin Arkadii**
 
+Towards an expert system for protective group reactivity
+
 **Varlamov Oleg**
+
+Development of a web service for predicting the reactivity of organic compounds

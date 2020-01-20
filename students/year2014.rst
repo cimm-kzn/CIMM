@@ -3,22 +3,26 @@
 
 **Bodrov Andrei**
 
+Modeling of selectivity of bimolecular nucleophilic substitution and elimination reactions
+
 **Chubukaeva Dinara**
 
-Higher education (2006-2011): Kazan Federal University, Faculty of Chemistry.
+Molecular dynamics Investigation of retinoic X receptor ligand binding domain bound to the retinoic acids
 
 .. image:: imgs/gimadiev.jpg
     :width: 200
 
 **Gimadiev Timur**
 
-Higher education (2004-2009): Kazan Federal University, Faculty of Chemistry.
+Generative topographic mapping approach to modeling and chemical space visualization of Human Intestinal Transporters
 
 .. image:: imgs/nugmanov.jpg
     :width: 200
 
 :ref:`stsouko`
 
-Higher education (2006-2011): Kazan Federal University, Faculty of Chemistry.
+The solution to the problem of validation of automated atom-to-atom mapping
 
 **Petrovsky Anton**
+
+Modeling tautomeric equilibria of various types using the condensed graph approach

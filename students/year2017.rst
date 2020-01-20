@@ -3,18 +3,30 @@
 
 **Gabdullina Albina**
 
+Generative topographic maps of conformational space of dipeptides
+
 **Izhboldina Aysylu**
+
+Modeling of constants of tautomeric equilibria using inductive knowledge transfer
 
 .. image:: imgs/khayrullina.jpg
     :width: 200
 
 **Khayrullina Adelya**
 
+Development of an approach for the searching of atom-to-atom mapping in chemical reactions using machine learning
+
 .. image:: imgs/ravil.jpg
     :width: 200
 
 :ref:`ravil`
 
+Exchange interactions in multispin macrocyclic derivatives of N, N'-dioxi-2,6-diazaadamantane
+
 **Tverdov Ilya**
 
+Studying the nature of cooperativity using the interacting quantum atom approach
+
 **Vasilyev Ilya**
+
+Consideration of chromophore self-organization in the design of molecular fragments with quadratic NLO activity

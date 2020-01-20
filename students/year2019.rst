@@ -5,7 +5,19 @@
 
 **Chernyak Aleksandra**
 
+**Delova Anastasia** (bachelor)
+
+**Khakimova Aigul** (bachelor)
+
+**Kokorin Artem**
+
+**Mindubaeva Guzel** (bachelor)
+
+**Minibaeva Guzel** (bachelor)
+
 **Muhametzyanova Diana**
+
+**Shevelev Maksim** (bachelor)
 
 .. image:: imgs/musayeva.jpg
     :width: 200
