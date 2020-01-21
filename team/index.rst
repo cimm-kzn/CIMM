@@ -33,31 +33,31 @@ Laboratory Staff
 .. image:: imgs/baskin.jpg
     :width: 200
 
-**Baskin Igor Iosifovich** - doctor of science.
+**Baskin Igor** - doctor of science.
 Invited researcher. Leading Research Associate of Chair of Polymer and Crystal Physics and Laboratory of Physical
 Chemistry of Polymers of Faculty of Physics, Moscow State University.
 
 .. image:: imgs/madzhidov.jpg
     :width: 200
 
-**Madzhidov Timur Ismailovich** - research fellow, candidate of science (PhD).
+**Madzhidov Timur** - research fellow, candidate of science (PhD).
 Associate professor of Department of Organic Chemistry of Alexander Butlerov Institute of Chemistry.
 
 .. image:: imgs/tutubalina.jpg
     :width: 200
 
-**Tutubalina Elena Viktorovna** - junior researcher, candidate of science (PhD).
+**Tutubalina Elena** - researcher, candidate of science (PhD).
 
 .. image:: imgs/nugmanov.jpg
     :width: 200
 
-**Nugmanov Ramil Irekovich** - senior researcher, candidate of science (PhD).
+:ref:`stsouko` - senior researcher, candidate of science (PhD).
 Associate professor of Department of Organic Chemistry of Alexander Butlerov Institute of Chemistry.
 
 .. image:: imgs/gimadiev.jpg
     :width: 200
 
-**Gimadiev Timur Rustemovich** - junior researcher, PhD.
+**Gimadiev Timur** - junior researcher, PhD.
 
 
 .. toctree::
