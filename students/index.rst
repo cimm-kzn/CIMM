@@ -28,6 +28,10 @@ Higher education (2014-2019): Kazan Federal University, Fundamental and applied 
 
 Bachelor Students
 -----------------
+.. image:: imgs/meshkova.jpg
+    :width: 200
+
+**Meshkova Nadezhda**
 
 .. image:: imgs/meshkova.jpg
     :width: 200
