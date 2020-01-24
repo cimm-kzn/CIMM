@@ -11,7 +11,6 @@ SCREENING2018
 
 .. toctree::
 
-    sved
     steps
     devs
     team

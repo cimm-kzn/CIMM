@@ -1,8 +1,8 @@
 .. _ravil:
 
-****************
+********************
 Mukhametgaleev Ravil
-****************
+********************
 .. image:: imgs/ravil.jpg
     :width: 200
 
