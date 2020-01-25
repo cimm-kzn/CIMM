@@ -1,7 +1,10 @@
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
-import sphinx_rtd_theme
+from os.path import abspath
+from sys import path
+path.insert(0, abspath('.'))
+
+from pybtex.plugin import register_plugin
+from gost import GOSTStyle
+
 
 project = 'CIMM'
 copyright = '2020, Kazan Chemoinformatics and Molecular Modeling Lab'
@@ -52,3 +55,6 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False
 }
+
+
+register_plugin('pybtex.style.formatting', 'gost_style', GOSTStyle)

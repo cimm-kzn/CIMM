@@ -37,5 +37,5 @@ Nugmanov Ramil
     :all:
     :labelprefix: NR
     :encoding: utf
-    :style: unsrt
+    :style: gost_style
     :filter: author % "Nugmanov"
