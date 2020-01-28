@@ -16,6 +16,9 @@ PhD Students
 
 :ref:`ravil` - Master of Chemoinformatics (2017).
 
+.. image:: imgs/rakhimbekova.jpg
+    :width: 200
+
 :ref:`asima` - Master of Supramolecular Chemistry (2016).
 
 .. toctree::
