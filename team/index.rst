@@ -59,8 +59,14 @@ Associate professor of Department of Organic Chemistry of Alexander Butlerov Ins
 
 **Gimadiev Timur** - junior researcher, PhD.
 
+.. image:: imgs/tahmina.jpg
+    :width: 200
+
+:ref:`tahmina` - laboratory assistant.
+
 
 .. toctree::
     :hidden:
 
     nugmanov
+    tahmina

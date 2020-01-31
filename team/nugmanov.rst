@@ -3,10 +3,13 @@
 Nugmanov Ramil
 ==============
 
+.. image:: imgs/nugmanov.jpg
+    :width: 200
+
 **Education:**
 
-* Higher education (2006-2011): Kazan Federal University, A.M. Butlerov Institute of Chemistry.
-* Master in Chemoinformatics (2012-2014): Kazan Federal University, A.M. Butlerov Institute of Chemistry.
+* Higher education (2006-2011): Kazan Federal University, A.M. Butlerov Institute of Chemistry
+* Master in Chemoinformatics (2012-2014): Kazan Federal University, A.M. Butlerov Institute of Chemistry
 * PhD in Organic chemistry (2011-2014): A.E. Arbuzov Institute of Organic and Physical Chemistry, Kazan
 
 **Experience:**
