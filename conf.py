@@ -53,7 +53,8 @@ html_theme_options = {
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
-    'titles_only': False
+    'titles_only': False,
+    'analytics_id': 'UA-72457412-1'
 }
 
 
