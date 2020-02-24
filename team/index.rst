@@ -57,7 +57,7 @@ Associate professor of Department of Organic Chemistry of Alexander Butlerov Ins
 .. image:: imgs/gimadiev.jpg
     :width: 200
 
-**Gimadiev Timur** - junior researcher, PhD.
+:ref:`gimadiev` - junior researcher, PhD.
 
 .. image:: imgs/tahmina.jpg
     :width: 200
