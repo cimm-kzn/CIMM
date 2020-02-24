@@ -70,3 +70,4 @@ Associate professor of Department of Organic Chemistry of Alexander Butlerov Ins
 
     nugmanov
     tahmina
+    gimadiev

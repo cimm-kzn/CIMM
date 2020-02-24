@@ -26,6 +26,11 @@ Nugmanov Ramil
 
 * Jun. 2019 - present: Associate Professor. Organic chemistry department. Kazan Federal University. 18 Kremlyovskaya street, Kazan 420008, Russian Federation
 
+**Achievments:**
+
+* Participating in Grants of Russian Scientific Fond (2014 - 2018), (2019 - current)
+* Participating in Grant of Russian and Czech Scientific Funds for joint research (2018- 2020)
+
 **Projects:**
 
     * Open-source chemoimnformatics toolkit `CGRtools <https://github.com/cimm-kzn/CGRtools>`_

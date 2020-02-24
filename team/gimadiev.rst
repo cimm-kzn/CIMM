@@ -14,28 +14,32 @@ Gimadiev Timur
 * PhD in Chemoinformatics (2014-2018): University of Strasbourg, Faculty of Chemistry, France
 
 **Experience:**
+
 * 2006 - 2012 : Assistant Researcher. Kazan Federal University, Russian Federation
 * 2014 - present : Junior Researcher. Kazan Federal University, Russian Federation
 * 2014 - 2018 : Doctoral resercher. University of Strasbourg, France
 * 2015 - 2019 : Teaching Assistant. Kazan Federal University, Russian Federation
 
 **Expertise:**
-    * Data mining and processing
-    * QSAR and other data modeling
-    * Chemoinformatics
-    * Synthesis
-    * Structure analysis
-    * Reactions mechanisms quantum-chemical studying
 
-**Achievments**
-    *Participating in Grants of Russian Fundamental Research Fond (2007-2008), (2010-2012)
-    *Russian-French Government Scholarship Program “Henri Poincare”(2013-2014) winner
-    *French IDEX fellowship winner (2014-2018)
-    *Participating in Grants of Russian Scientific Fond (2014 - 2018), (2019 - current)
-    *Grant of Russian and Czech Scientific Funds for joint research (2018- 2020)
+* Data mining and processing
+* QSAR and other data modeling
+* Chemoinformatics
+* Synthesis
+* Structure analysis
+* Reactions mechanisms quantum-chemical studying
+
+**Achievments:**
+
+* Participating in Grants of Russian Fundamental Research Fond (2007-2008), (2010-2012)
+* Russian-French Government Scholarship Program “Henri Poincare”(2013-2014) winner
+* French IDEX fellowship winner (2014-2018)
+* Participating in Grants of Russian Scientific Fond (2014 - 2018), (2019 - current)
+* Participating in Grant of Russian and Czech Scientific Funds for joint research (2018- 2020)
 
 **Projects:**
-    * Open-source chemoimnformatics toolkit `CGRtools <https://github.com/cimm-kzn/CGRtools>`_
+
+* Open-source chemoimnformatics toolkit `CGRtools <https://github.com/cimm-kzn/CGRtools>`_
 
 **Publications:**
 
