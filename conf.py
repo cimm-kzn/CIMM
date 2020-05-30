@@ -11,7 +11,7 @@ copyright = '2020, Kazan Chemoinformatics and Molecular Modeling Lab'
 author = 'Ramil Nugmanov'
 release = '2020.01.17'
 
-extensions = ['recommonmark', 'sphinx_rtd_theme', 'sphinxcontrib.bibtex']
+extensions = ['recommonmark', 'sphinx_rtd_theme', 'sphinxcontrib.bibtex', 'sphinxcontrib.images']
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -59,3 +59,7 @@ html_theme_options = {
 
 
 register_plugin('pybtex.style.formatting', 'gost_style', GOSTStyle)
+
+images_config = {
+    'override_image_directive': True
+}
