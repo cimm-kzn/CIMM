@@ -345,7 +345,9 @@ GTM_DIVERSE - это модуль, написанный на языке прог
 PharMD
 ~~~~~~
 
-PharMD — программный модуль для создания фармакофора на основе структуры биомишени с использованием молекулярнодинамических траекторий
+PharMD — программный модуль для создания фармакофора на основе структуры биомишени с использованием молекулярнодинамических траекторий [#]_.
+
+.. [#] Polishchuk, P. Virtual Screening Using Pharmacophore Models Retrieved from Molecular Dynamic Simulations / P. Polishchuk, A. Kutlushina, D. Bashirova, O. Mokshyna, T. Madzhidov // Int. J. Mol. Sci. – 2019. – V. 20, Iss. 23. – P. 5834.
 
 Последняя версия модуля PharMD (Python) доступна по ссылке:
 https://github.com/ci-lab-cz/pharmd
