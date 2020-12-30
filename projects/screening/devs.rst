@@ -523,6 +523,13 @@ GTM_DIVERSE_web - веб-приложение для дизайна библио
 
 Веб-приложение доступно по ссылке: https://diverse.cimm.site/
 
+Probabilistic biological activity prediction models
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Probabilistic biological activity prediction models - веб-приложение, предназначенное для проведения профилирования биологической активности соединений.
+
+Веб-приложение доступно по ссылке: https://pharm.cimm.site/
+
 ФАРМАКОФОРНЫЕ МОДЕЛИ
 ____________________
 
