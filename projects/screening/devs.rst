@@ -206,7 +206,11 @@ https://doi.org/10.3390/molecules23123094
 PSEARCH
 ~~~~~~~
 
-PSEARCH - это программный модуль для поиска общего фармакофора на основании структур активных и неактивных молекул.
+PSEARCH - это программный модуль для поиска общего фармакофора на основании структур активных и неактивных молекул [#]_, [#]_.
+
+.. [#] Kutlushina, A. Ligand-Based Pharmacophore Modeling Using Novel 3D Pharmacophore Signatures / A. Kutlushina, A. Khakimova, T. Madzhidov, P. Polishchuk // Molecules. – 2018. – V. 23, Iss. 12. – P. art.no 3094.
+
+.. [#] Kutlushina, A. Erratum: Correction: Kutlushina, A., et al. Ligand-Based Pharmacophore Modeling Using Novel 3D Pharmacophore Signatures. Molecules, 2018, 23, 3094 (Molecules (Basel, Switzerland) (2018) 23 12 PII: E1052) / A. Kutlushina, A. Khakimova, T. Madzhidov, P. Polishchuk // Molecules. – 2019. – V. 24, Iss. 6.
 
 Последняя версия модуля **PSEARCH** (Python) доступна по ссылке: https://github.com/meddwl/psearch
 
@@ -341,7 +345,9 @@ GTM_DIVERSE - это модуль, написанный на языке прог
 PharMD
 ~~~~~~
 
-PharMD — программный модуль для создания фармакофора на основе структуры биомишени с использованием молекулярнодинамических траекторий
+PharMD — программный модуль для создания фармакофора на основе структуры биомишени с использованием молекулярнодинамических траекторий [#]_.
+
+.. [#] Polishchuk, P. Virtual Screening Using Pharmacophore Models Retrieved from Molecular Dynamic Simulations / P. Polishchuk, A. Kutlushina, D. Bashirova, O. Mokshyna, T. Madzhidov // Int. J. Mol. Sci. – 2019. – V. 20, Iss. 23. – P. 5834.
 
 Последняя версия модуля PharMD (Python) доступна по ссылке:
 https://github.com/ci-lab-cz/pharmd
