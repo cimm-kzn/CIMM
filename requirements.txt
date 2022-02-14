@@ -1,5 +1,5 @@
-sphinx
-recommonmark
-sphinx_rtd_theme
-sphinxcontrib-bibtex
-sphinxcontrib-images
+sphinx==2.3.1
+recommonmark==0.6.0
+sphinx_rtd_theme==0.4.3
+sphinxcontrib-bibtex==1.0.0
+sphinxcontrib-images==0.9.2
