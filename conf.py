@@ -7,7 +7,7 @@ from gost import GOSTStyle
 
 
 project = 'CIMM'
-copyright = '2020, Kazan Chemoinformatics and Molecular Modeling Lab'
+copyright = '2022, Kazan Chemoinformatics and Molecular Modeling Lab'
 author = 'Ramil Nugmanov'
 release = '2020.01.17'
 
