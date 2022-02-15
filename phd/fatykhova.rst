@@ -6,7 +6,7 @@ Fatykhova Adelia
 .. image:: imgs/fatykhova.jpg
     :width: 200
 
-Second year PhD student
+Fourth year PhD student
 
 **Abstracts**:
 
