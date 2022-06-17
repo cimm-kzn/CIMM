@@ -23,4 +23,6 @@ Projects
     :hidden:
 
     screening/index
+
+`iSynthesis <//cimm.site/projects/isynthesis.html>`_
     isynthesis
