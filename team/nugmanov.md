@@ -1,3 +1,0 @@
-# Ramil Nugmanov
-
-Developer

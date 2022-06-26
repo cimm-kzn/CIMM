@@ -15,3 +15,4 @@ Chemoinformatics and Molecular Modeling Laboratory
     students/index
     projects/index
     events/index
+    Master Program <https://master.cimm.site>

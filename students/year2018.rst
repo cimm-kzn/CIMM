@@ -1,0 +1,48 @@
+2018 Graduated
+==============
+
+.. image:: imgs/feruza.jpg
+    :width: 200
+
+**Bekmuratova Feruza**
+
+Crystal structure of bi- and polynuclear Cu (I) complexes with P, N ligands
+
+.. image:: imgs/fatykhova.jpg
+    :width: 200
+
+:ref:`adelia`
+
+Development of an integrated database management system for chemical reactions and molecules
+
+.. image:: imgs/gimatev.jpg
+    :width: 200
+
+**Gimatev Rifat**
+
+Calculations of the ligand binding free energy
+
+.. image:: imgs/zulfia.jpg
+    :width: 200
+
+**Khayrullina Zulfia**
+
+Atomistic modeling of the structure and properties of composite polymer materials with nonlinear optical chromophores of various structures
+
+.. image:: imgs/kutlushina.jpg
+    :width: 200
+
+**Kutlushina Alina**
+
+The use of a new representation of 3D pharmacophores in virtual screening
+
+**Moiseeva Evgenia**
+
+Crystal structure of fluorine-containing benzothiazinesulfonamides: conformation, intramolecular and intermolecular interaction
+
+.. image:: imgs/sattarov.jpg
+    :width: 200
+
+**Sattarov Boris**
+
+De novo design of small molecules using the approach combining Artificial Neural Networks and Generative Topographic Mapping. Adenosine A2a inhibitors case

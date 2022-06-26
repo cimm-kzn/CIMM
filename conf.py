@@ -1,14 +1,17 @@
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
-import sphinx_rtd_theme
+from os.path import abspath
+from sys import path
+path.insert(0, abspath('.'))
+
+from pybtex.plugin import register_plugin
+from gost import GOSTStyle
+
 
 project = 'CIMM'
-copyright = '2020, Kazan Chemoinformatics and Molecular Modeling Lab'
+copyright = '2022, Kazan Chemoinformatics and Molecular Modeling Lab'
 author = 'Ramil Nugmanov'
 release = '2020.01.17'
 
-extensions = ['recommonmark', 'sphinx_rtd_theme']
+extensions = ['recommonmark', 'sphinx_rtd_theme', 'sphinxcontrib.bibtex', 'sphinxcontrib.images']
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -26,6 +29,7 @@ html_favicon = 'imgs/favicon.ico'
 html_show_copyright = True
 html_show_sphinx = False
 html_show_sourcelink = False
+html_scaled_image_link = False
 
 html_css_files = [
     'style.css',
@@ -49,5 +53,13 @@ html_theme_options = {
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
-    'titles_only': False
+    'titles_only': False,
+    'analytics_id': 'UA-72457412-1'
+}
+
+
+register_plugin('pybtex.style.formatting', 'gost_style', GOSTStyle)
+
+images_config = {
+    'override_image_directive': True
 }
