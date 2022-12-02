@@ -6,7 +6,7 @@ Mukhametgaleev Ravil
 .. image:: imgs/ravil.jpg
     :width: 200
 
-Third year PhD student
+Third year PhD student (till 2021)
 
 **Abstracts**:
 
