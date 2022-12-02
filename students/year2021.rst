@@ -1,0 +1,35 @@
+2021 Graduated
+==============
+
+**Antonova Maria**
+
+**Gorokhov Yakov**
+
+**Minibaeva Guzel**
+
+**Samikaev Nail**
+
+**Sizov Alexander**
+
+.. image:: imgs/skibina.jpg
+    :width: 200
+
+**Skibina Julia**
+
+Higher education (2014-2019): Kazan Federal University, Fundamental and applied chemistry.
+
+**Faizrakhmanov Ilnur**
+
+**Frolycheva Julia**
+
+**Ibragimova Zarina** (bashelor)
+
+.. image:: imgs/meshkova.jpg
+    :width: 200
+
+**Meshkova Nadezhda** (bachelor)
+
+**Mukanov Artem** (bachelor)
+
+**Edigee Arsen** (bashelor)
+

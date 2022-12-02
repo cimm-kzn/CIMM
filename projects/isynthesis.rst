@@ -3,7 +3,7 @@ iSynthesis
 
 Download docker image: `download <http://seafile.cimm.site/f/9eb331a8c3d9476a83ab/>`_
 
-Please, contact Timur Madzhidov to get the password: Timur.Madzhidov@kpfu.ru
+Please, contact Timur Gimadiev to get the password: TimRGimadiev@kpfu.ru
 
 **Setup and run:**
 

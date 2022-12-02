@@ -10,28 +10,64 @@ Master Students
     year2017
     year2018
     year2019
+    year2020
+    year2021
 
-.. image:: imgs/semenova.jpg
+Second-year Students
+-----------------
+
+**Vendin Maksim**
+
+* Higher education (2017-2021): North-Caucasus Federal University
+
+**Edigee Arsen**
+
+**Ibragimova Zarina**
+
+
+.. image:: imgs/polina.jpg
     :width: 200
+**Lebedeva Polina**
 
-**Semenova Anna**
+* Higher education (2017-2020): Mordovsky State University named after Ogarev Faculty of Biltechnology and Biology
 
-Bachelor (2014-2018): Saint-Petersburg State University of Economics, Mathematical methods and statistical analysis.
+**Lifanov Alexander**
 
-.. image:: imgs/skibina.jpg
+**Mukanov Artem**
+
+**Pinigina Anna**
+
+
+First-year Students
+-----------------
+
+.. image:: imgs/rodion.jpg
     :width: 200
+**Vladimirov Rodion**
 
-**Skibina Julia**
+.. image:: imgs/slava.jpg
+    :width: 200
+**Grigoryev Vyacheslav**
 
-Higher education (2014-2019): Kazan Federal University, Fundamental and applied chemistry.
+**Makhmutov Timur**
 
+**Medvedev Gleb**
+
+**Nemtareva Evgenia**
+
+
+.. image:: ../team/imgs/tahmina.jpg
+    :width: 200
+**Sibgatullina Takhmina**
+
+.. image:: imgs/us.jpg
+    :width: 200
+**Us Ivan**
 
 Bachelor Students
 -----------------
 
-.. image:: imgs/meshkova.jpg
-    :width: 200
+**Gilmullin Almaz**
 
-**Meshkova Nadezhda**
 
-**Mukanov Artem**
+
