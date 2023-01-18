@@ -25,3 +25,6 @@ Projects
     screening/index
 
     isynthesis
+
+    planner
+
