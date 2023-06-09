@@ -1,9 +1,6 @@
 2015 Graduated
 ==============
 
-.. image:: imgs/glavatskikh.jpg
-    :width: 200
-
 **Glavatskikh Marta**
 
 Predictive models for halogen bond basicity of binding sites of polyfunctional molecules
